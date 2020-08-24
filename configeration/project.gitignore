@@ -1,0 +1,6 @@
+#file to be ignored
+ functions.txt
+
+#Directory to be ignored
+log/*
+
